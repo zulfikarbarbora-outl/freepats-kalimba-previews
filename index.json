@@ -1,0 +1,471 @@
+{
+  "library": "FreePats Kalimba",
+  "description": "Kalimba (thumb piano) from freepats.zenvoid.org",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/freepats-kalimba",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/freepats-kalimba-previews",
+  "branch": "master",
+  "fileCount": 45,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/",
+  "files": [
+    {
+      "file": "1_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/1_01.mp3",
+      "size": 50348,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "1_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/1_02.mp3",
+      "size": 50348,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "1_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/1_03.mp3",
+      "size": 50348,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "1_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/1_04.mp3",
+      "size": 50348,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "1_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/1_05.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "2_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/2_01.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "2_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/2_02.mp3",
+      "size": 36908,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "2_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/2_03.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "2_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/2_04.mp3",
+      "size": 41900,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "2_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/2_05.mp3",
+      "size": 46124,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_01.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_02.mp3",
+      "size": 35756,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_03.mp3",
+      "size": 37292,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_04.mp3",
+      "size": 35756,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_05.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_06.mp3",
+      "size": 33836,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "3_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/3_07.mp3",
+      "size": 43052,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_01.mp3",
+      "size": 31916,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_02.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_03.mp3",
+      "size": 33452,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_04.mp3",
+      "size": 34220,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_05.mp3",
+      "size": 34988,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_06.mp3",
+      "size": 34988,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "4_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/4_07.mp3",
+      "size": 36908,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_01.mp3",
+      "size": 31916,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_02.mp3",
+      "size": 32300,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_03.mp3",
+      "size": 30380,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_04.mp3",
+      "size": 33452,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_05.mp3",
+      "size": 30380,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_06.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_06.mp3",
+      "size": 29228,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "5_07.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/5_07.mp3",
+      "size": 29996,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "6_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/6_01.mp3",
+      "size": 31916,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "6_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/6_02.mp3",
+      "size": 26924,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "6_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/6_03.mp3",
+      "size": 44588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "6_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/6_04.mp3",
+      "size": 26924,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "6_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/6_05.mp3",
+      "size": 26924,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "7_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/7_01.mp3",
+      "size": 32684,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "7_02.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/7_02.mp3",
+      "size": 33068,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "7_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/7_03.mp3",
+      "size": 33836,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "7_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/7_04.mp3",
+      "size": 47276,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "7_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/7_05.mp3",
+      "size": 47276,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3_01.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/F3_01.mp3",
+      "size": 44588,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3_03.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/F3_03.mp3",
+      "size": 44588,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3_04.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/F3_04.mp3",
+      "size": 47276,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F3_05.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/freepats-kalimba-previews/master/F3_05.mp3",
+      "size": 46892,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "53": [
+      "F3_01.mp3",
+      "F3_03.mp3",
+      "F3_04.mp3",
+      "F3_05.mp3"
+    ]
+  }
+}
